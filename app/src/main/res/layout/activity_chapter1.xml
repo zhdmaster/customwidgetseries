@@ -6,10 +6,10 @@
     android:orientation="vertical"
     tools:context=".chapter1.Chapter1Activity">
 
-    <com.training.customviewseries.chapter1.BasisView
+    <com.training.customviewseries.chapter1.BasisCanvasView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
 
-    </com.training.customviewseries.chapter1.BasisView>
+    </com.training.customviewseries.chapter1.BasisCanvasView>
 </LinearLayout>
